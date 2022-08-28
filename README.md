@@ -8,8 +8,6 @@
 2. 将文件放入到网站的文件夹中
 3. 访问这个程序是否正常运行
 
-<!--more-->
-
 ### 使用环境
 
 - 需要 PHP程序（测试环境为7.3 ，最低不低于5.6【理论上】）
@@ -25,9 +23,9 @@
 
 ## 调用参数
 
-return = json：返回标准json数据
-写法：random.php?return=json
-(默认直接返回图片链接)
+- return = json：返回标准json数据
+- 写法：random.php?return=json
+- (默认直接返回图片链接)
   
 </div>
 
