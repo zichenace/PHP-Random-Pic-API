@@ -4,7 +4,7 @@
 
 ## 安装
 
-1. [下载](https://github.com/zichenace/PHP-Random-Pic-API/releases/latest) 这个程序发布包
+1. [下载](https://github.com/zichenace/PHP-Random-Pic-API/releases/latest) 本程序的发布包
 2. 将文件放入到网站的文件夹中
 3. 访问这个程序是否正常运行
 
@@ -29,6 +29,6 @@
   
 ## 发现了错误？！
 
-如果出现了问题请填写 `[issues](https://github.com/zichenace/PHP-Random-Pic-API/issues)`，我会通过邮箱获取到信息哒😉
+如果出现了问题请填写 [issues](https://github.com/zichenace/PHP-Random-Pic-API/issues)，我会通过邮箱获取到信息哒😉
  
 
