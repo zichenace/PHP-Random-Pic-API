@@ -1,0 +1,24 @@
+/*!
+ * Copyright 2022 梓宸.
+ * Licensed under MIT (https://github.com/zichenace/PHP-Random-Pic-API/blob/main/LICENSE)
+ */
+
+body {
+	padding-top:50px
+}
+.alert {
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:10px;
+	margin-bottom:10px
+}
+pre {
+	background-color:rgba(255,255,255,.6)
+}
+.bgw {
+	background-color:rgb(255,255,255,.6)
+}
+.bg {
+    /*这里使用ZiChen ACG API 可自行修改*/ 
+	background:url(https://app.zichen.zone/api/acg.php) center 0px / cover no-repeat
+}
