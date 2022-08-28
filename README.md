@@ -29,6 +29,6 @@
   
 ## 发现了错误？！
 
-如果出现了问题请填写Issues，我会通过邮箱获取到信息哒😉
+如果出现了问题请填写 `[issues](https://github.com/zichenace/PHP-Random-Pic-API/issues)`，我会通过邮箱获取到信息哒😉
  
 
