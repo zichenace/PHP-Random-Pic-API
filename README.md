@@ -1,4 +1,6 @@
 # Random-Pic-API for PHP
+![GitHub](https://img.shields.io/github/license/zichenace/PHP-Random-Pic-API?style=flat-square)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/zichenace/PHP-Random-Pic-API?style=flat-square)
 
 一款简洁小巧基于PHP的随机图片API程序
 
