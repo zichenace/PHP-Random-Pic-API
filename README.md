@@ -2,7 +2,7 @@
 ![GitHub](https://img.shields.io/github/license/zichenace/PHP-Random-Pic-API?style=flat-square)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/zichenace/PHP-Random-Pic-API?style=flat-square)
 
-一款简洁小巧基于PHP的随机图片API程序
+一款简洁小巧基于PHP的随机图片API程序，支持文本链接模式和本地文件模式，小巧好用！
 
 ## 安装
 
@@ -12,8 +12,8 @@
 
 ## 使用环境
 
-- 需要 PHP程序（测试环境为7.3 ，最低不低于5.4 【5.3无法返回json】）
-- 由于是轻量级插件，所以对服务器的要求很低，不占太多空间
+- 需要 PHP 的支持（建议7.x）
+- 由于是轻量级程序，所以对服务器的要求很低，无需占太多空间
 
 ## 开源协议
 
@@ -21,7 +21,7 @@
 
 原创不易！如果喜欢本项目，请 `Star` 它以示对我的支持~
 
-欢迎前往 [我的博客](https://zichen.zone/donate.html) 为我提供赞助，谢谢您！
+支持作者？ [赞助我！](https://zichen.zone/donate.html) =￣ω￣=
 
 ## 调用参数
 
@@ -31,6 +31,6 @@
   
 ## 发现了错误 ?!
 
-如果出现了问题请填写 [issues](https://github.com/zichenace/PHP-Random-Pic-API/issues)，我会通过邮箱获取到信息哒😉
+如果出现了问题请发布 [issues](https://github.com/zichenace/PHP-Random-Pic-API/issues) ！
  
 
